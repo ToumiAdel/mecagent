@@ -1,1 +1,1 @@
-### Everything is explained in the good_luck.ipynb file.
+### Everything is explained in the test.ipynb file.
